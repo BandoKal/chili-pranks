@@ -1,6 +1,6 @@
 # The Unhinged Ladle
 
-A responsive, satirical chili food blog built with plain HTML, CSS, and JavaScript. Includes three complete fictional recipe articles, hash-based recipe links, and printable recipes. No build or dependencies required. All asset paths work under a GitHub Pages repository subdirectory.
+A responsive, satirical chili food blog built with plain HTML, CSS, and JavaScript. Includes five complete fictional recipe articles, hash-based recipe links, and printable recipes. No build or dependencies required. All asset paths work under a GitHub Pages repository subdirectory.
 
 ## Preview
 
