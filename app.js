@@ -28,7 +28,7 @@ const recipes = [
   },
   {
     id: 'dessert', name: 'The Great Gummy Bear Dessert Chili', tag: 'Looks like dinner. Betrays like dessert.', time: '25 min', servings: 4,
-    description: 'Gummy-bear “ground beef,” candy beans, and spicy chocolate sauce. A bowl-shaped plot twist.',
+    description: 'Gummy-bear “ground beef,” Candie beans, and spicy chocolate sauce. A bowl-shaped plot twist.',
     intro: 'All the appearance of chili. Absolutely none of the dinner.',
     story: 'I wanted a chili for people who always skip straight to dessert. So I made ground beef out of gummy bears, beans out of jelly beans, and a rich chili sauce out of spicy chocolate. From across the table it looks like dinner. Up close it looks like I should no longer be left alone in the candy aisle.',
     ingredients: ['1 cup red and orange gummy bears', '2 tbsp cocoa powder, divided', '¾ cup red and brown jelly beans', '½ cup heavy cream', '¾ cup semisweet chocolate chips', '¼ tsp ground cinnamon', 'A small pinch of cayenne pepper, to taste', '¼ cup crushed chocolate cookies', 'Vanilla yogurt or whipped cream, for the “sour cream”'],
