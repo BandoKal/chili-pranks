@@ -27,7 +27,7 @@ const recipes = [
     note: 'Jamie’s tip: Slice it like a pie, serve it like a pie, and let the first kidney bean do the explaining.'
   },
   {
-    id: 'dessert', name: 'The Great Gummy Bear Dessert Chili', tag: 'Looks like dinner. Betrays like dessert.', time: '25 min', servings: 4,
+    id: 'dessert', name: 'The Great Gummy Bear Candie Chili', tag: 'Looks like dinner. Betrays like dessert.', time: '25 min', servings: 4,
     description: 'Gummy-bear “ground beef,” Candie beans, and spicy chocolate sauce. A bowl-shaped plot twist.',
     intro: 'All the appearance of chili. Absolutely none of the dinner.',
     story: 'I wanted a chili for people who always skip straight to dessert. So I made ground beef out of gummy bears, beans out of jelly beans, and a rich chili sauce out of spicy chocolate. From across the table it looks like dinner. Up close it looks like I should no longer be left alone in the candy aisle.',
